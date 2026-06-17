@@ -8,7 +8,7 @@ I'm an embedded software engineer specializing in firmware development and event
 
 ## Technologies
 
-- **Languages:** C, C++
+- **Languages:** C/C++
 - **Frameworks:** AK Embedded Base Kit
 - **Protocols:** MQTT, HTTP and TLS
 - **Operating Systems:** Linux (Ubuntu)
