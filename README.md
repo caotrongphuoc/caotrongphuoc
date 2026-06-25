@@ -1,3 +1,8 @@
+<div align="center">
+  <img alt="cao-trong-phuoc-linkedin-banner" 
+       src="resources/images/cao-trong-phuoc-linkedin-banner.png">
+</div>
+
 ## About me
 
 I'm an embedded software engineer specializing in firmware development and event-driven architectures. Currently, I'm developing a game built on the AK Embedded Base Kit and firmware for camera modules. My work focuses on:
