@@ -11,15 +11,11 @@
 
 ## About me
 
-I'm an embedded software engineer specializing in firmware development and event-driven architectures. Currently, I'm developing a game built on the AK Embedded Base Kit and firmware for camera modules. My work focuses on:
-
-- C/C++ firmware development
-- Communication protocols (MQTT, HTTP and TLS)
-- Event-driven design patterns for real-time embedded systems
+I'm an embedded software engineer specializing in firmware and low-level development. Currently, I focus on building Linux kernels and developing lower-layer software for camera modules.
 
 ## Technologies
 
 - **Languages:** C/C++
-- **Frameworks:** AK Embedded Base Kit
+- **System/Low-level:** Linux (Ubuntu), Kernel Building
+- **Frameworks & Hardware:** AK Embedded Base Kit, Camera Modules
 - **Protocols:** MQTT, HTTP and TLS
-- **Operating Systems:** Linux (Ubuntu)
