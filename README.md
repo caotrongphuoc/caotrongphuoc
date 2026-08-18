@@ -16,6 +16,6 @@ I'm an embedded software engineer specializing in firmware and low-level develop
 ## Technologies
 
 - **Languages:** C/C++
-- **System/Low-level:** Linux (Ubuntu), Kernel Building
+- **System/Low-level:** Linux, Kernel Building
 - **Frameworks & Hardware:** AK Embedded Base Kit, Camera Modules
 - **Protocols:** MQTT, HTTP and TLS
