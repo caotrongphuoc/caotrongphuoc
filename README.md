@@ -11,11 +11,12 @@
 
 ## About me
 
-I'm an embedded software engineer specializing in firmware and low-level development. Currently, I focus on building Linux kernels and developing lower-layer software for camera modules.
+I'm an embedded software engineer focused on low-level software, Linux, and MCU development. My current work involves Linux kernel development and lower-layer software for camera systems. I also spend time exploring bare-metal programming to better understand how software interacts with hardware from the ground up.
 
 ## Technologies
 
-- **Languages:** C/C++
-- **System/Low-level:** Linux, Kernel Building
-- **Frameworks & Hardware:** AK Embedded Base Kit, Camera Modules
-- **Protocols:** MQTT, HTTP and TLS
+* **Languages:** C/C++
+* **Low-level & OS:** Linux, Linux Kernel, Bare-metal
+* **Embedded:** Microcontrollers, Camera Systems
+* **Connectivity:** Embedded communication protocols
+
