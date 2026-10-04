@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=caotrongphuoc&label=PROFILE+VIEWS&color=blue&style=flat-square)
+![Views](https://ak-badge-proxy.caotrongphuoc.workers.dev/?username=caotrongphuoc&label=PROFILE+VIEWS&color=blue&style=flat-square)
 
 </div>
 
